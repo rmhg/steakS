@@ -29,7 +29,7 @@ ROUTE :<br>
 / -> /index.html <br>
 /Work -> /work.html <br>
 ### TRY 
-This LINK : <a>Alpha Release steakS 1.0 Server</a> Should Have A jar file and other resource file needed to run the server<br>
+This LINK : <a href="https://github.com/rmhg/steakS/raw/master/release/steakS1.0.zip">Alpha Release steakS 1.0 Server</a> Should Have A jar file and other resource file needed to run the server<br>
 But I will Have To Remove and Add Some Feature Later <br>
 <br>
 # Warning
