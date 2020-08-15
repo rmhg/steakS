@@ -1,0 +1,33 @@
+
+body
+{ 
+  margin : 0;
+  padding : 0;
+  background : linear-gradient(45deg,purple, red);
+ }
+ div{
+   padding: 20px;
+   position: relative;
+   top : 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   display: flex;
+   flex-flow: column;
+   border: 5px solid white;
+   width : 50%;
+   align-items: center;
+   align-self: center;
+   border-radius: 5px;
+ }
+ h1, h2 {
+   color : white;
+   font-family: monospace;
+ }
+ p{
+   color : grey;
+   background-color: thistle;
+ }
+ a{
+   background-color: bisque;
+   border-radius: 8px;
+ }

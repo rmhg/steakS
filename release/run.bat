@@ -1,0 +1,1 @@
+java -cp steakS.jar run
