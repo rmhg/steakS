@@ -8,7 +8,7 @@ It Requires files
 ## main.cfg
 This File Is Use To Configure The Server As Follows <br>
 ---- In main.cfg---- <br>
-MAIN : <br?
+MAIN : <br>
 HOST -> localhost <br>
 PORT -> 80 <br>
 PATH -> /website/ <br>
